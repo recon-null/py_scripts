@@ -1,4 +1,4 @@
-py_scripts
+py-scripts
 ==========
 
 Python based system administration utilities.
